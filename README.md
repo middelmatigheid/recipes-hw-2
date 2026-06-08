@@ -18,7 +18,7 @@ git clone https://github.com/middelmatigheid/recipes-hw-2.git
 cd recipes-hw-2
 ```
 
-To rune the tests use commands
+To run the tests use commands
 
 ```bash
 pip install -r requirements.txt
