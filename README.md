@@ -1,4 +1,4 @@
-# Recipes - homework 2
+# Recipes HW2
 
 # About the project
 
